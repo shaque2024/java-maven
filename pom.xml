@@ -8,12 +8,6 @@
         <name>Java Home myweb</name>
         <url>http://maven.apache.org</url>
 
-<distributionManagement>
-  <repository>
-    <id>myrepo</id>
-    <url>http://34.68.185.81:8081/repository/my-repo/</url>
-  </repository>
-</distributionManagement>
   <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
