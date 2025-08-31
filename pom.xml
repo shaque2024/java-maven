@@ -9,12 +9,7 @@
         <url>http://maven.apache.org</url>
 
  
-        <distributionManagement>
-  <repository>
-    <id>myrepo</id>
-    <url>http://34.68.185.81:8081/repository/my-repo/</url>
-  </repository>
-</distributionManagement>
+   
         
         
         
